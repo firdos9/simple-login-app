@@ -1,0 +1,42 @@
+{
+  "name": "simpleloginapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi-escapes": "^4.3.2",
+    "ansi-regex": "^5.0.1",
+    "arch": "^2.2.0",
+    "asn1": "^0.2.6",
+    "astral-regex": "^2.0.0",
+    "bcrypt-pbkdf": "^1.0.2",
+    "buffer-crc32": "^0.2.13",
+    "chalk": "^4.1.2",
+    "core-util-is": "^1.0.2",
+    "dashdash": "^1.14.1",
+    "ecc-jsbn": "^0.1.2",
+    "emoji-regex": "^8.0.0",
+    "fd-slicer": "^1.1.0",
+    "getpass": "^0.1.7",
+    "has-flag": "^4.0.0",
+    "is-fullwidth-code-point": "^3.0.0",
+    "isexe": "^2.0.0",
+    "jsbn": "^0.1.1",
+    "log-update": "^4.0.0",
+    "pend": "^1.2.0",
+    "safer-buffer": "^2.1.2",
+    "side-channel-weakmap": "^1.0.2",
+    "tldts": "^6.1.86",
+    "tldts-core": "^6.1.86",
+    "tweetnacl": "^0.14.5"
+  },
+  "devDependencies": {
+    "cypress": "^15.1.0"
+  },
+  "description": ""
+}

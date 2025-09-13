@@ -1,9 +1,11 @@
  Simple Login App
+ 
  A lightweight login application built with HTML, CSS, and Vanilla JavaScript.  
 Includes automated testing using **Cypress**.
 
 
  Features
+ 
   User login form (username & password)
   Basic authentication validation
   Clean and responsive UI
@@ -12,6 +14,7 @@ Includes automated testing using **Cypress**.
 
 
  Requirements
+ 
   [Node.js](https://nodejs.org/) (v14 or later)  
    npm or yarn package manager
 
